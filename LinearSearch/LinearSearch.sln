@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinearSearch", "LinearSearch.vcxproj", "{088C88B1-3C33-4E03-83D3-A4347F4A708E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Debug|x64.ActiveCfg = Debug|x64
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Debug|x64.Build.0 = Debug|x64
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Debug|x86.ActiveCfg = Debug|Win32
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Debug|x86.Build.0 = Debug|Win32
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Release|x64.ActiveCfg = Release|x64
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Release|x64.Build.0 = Release|x64
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Release|x86.ActiveCfg = Release|Win32
+		{088C88B1-3C33-4E03-83D3-A4347F4A708E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EEC7AE-DC3B-4640-BA6D-B8C1A4D1D792}
+	EndGlobalSection
+EndGlobal
