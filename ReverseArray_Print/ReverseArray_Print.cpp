@@ -51,7 +51,7 @@ void ReverseArray(int array[], int arraySize)
         array[i] = array[(arraySize-1) - i];
         array[(arraySize -1)- i] = a;
         printf("a[%d]‚Æa[%d]‚ğŒğŠ·‚µ‚Ü‚·B\n", i, (arraySize - 1) - i);
-        dumpArray(&array[0] ,arraySize);
+        dumpArray(array ,arraySize);
     }
 }
 
